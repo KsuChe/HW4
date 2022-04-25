@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         //task 2
+
         int fri = 1;
         while (fri <= 31) {
             System.out.println("Сегодня пятница, " + fri + " Необходимо подготовить отчет.");
